@@ -10,7 +10,7 @@ http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="104" tvg-name="Astro Ria HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="MALAYSIA",ASTRO RIA
-http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+http://50.7.161.82:8277/streams/d/ria_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="105" tvg-name="Astro Prima HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="MALAYSIA",Astro Prima
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
@@ -19,7 +19,7 @@ http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 
 #EXTINF:-1 tvg-id="107" tvg-name="Astro Warna HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="MALAYSIA",Astro Warna
-http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="108" tvg-name="Astro Citra HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="MALAYSIA",Astro Citra
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
@@ -82,7 +82,7 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="411" tvg-name="HBO HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="MOVIES",HBO HD
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
 
 #EXTINF:-1 tvg-id="412" tvg-name="CINEMAX" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="MOVIES",CINEMAX
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
@@ -94,13 +94,13 @@ http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 
 #EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png" group-title="MOVIES", HBO Family
-http://iptv.tvmalaysia.cc:80/penang172/penang172/7070
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-name="HBO Signature SD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="MOVIES",HBO Signature
-http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 
 #EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MOVIES", HBO Hits
-http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniERUYttKoqkZ8ET52eGHldoKF6T1Pket2A0bCr=s900-c-k-c0x00ffffff-no-rj" group-title="MOVIES",CinemaWorld
 http://210.210.155.35/uq2663/h/h04/01.m3u8
