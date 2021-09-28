@@ -51,15 +51,6 @@ https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/dramasangat.png" group-title="MALAYSIA", Drama Sangat
 http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 
-#EXTINF:-1 tvg-name="CH3" tvg-logo="https://pbs.twimg.com/profile_images/453832506/Untitled-1_reasonably_small.gif" group-title="THAI",CH3
-http://live2.dootvde.com/live/50001_ch3.stream.smil/playist.m3u8
-
-#EXTINF:-1 tvg-name="CH5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Logo_tv5.png/360px-Logo_tv5.png" group-title="THAI",CH5
-https://tc-live1.sanook.com/live/22302_ch5.m3u8
-
-#EXTINF:-1 tvg-name="CH8" tvg-logo="https://i.imgur.com/hzdMjA1.jpg" group-title="THAI",CH8
-http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
-
 #EXTINF:-1 tvg-id="392" tvg-name="KBS World" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png" group-title="KOREA",KBS World
 http://160.119.77.116:8081/iptv/hd-kbsworld.stream/playlist.m3u8
 
