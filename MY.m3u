@@ -141,6 +141,9 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365e
 #EXTINF:-1 tvg-id="611" tvg-name="Astro Ceria HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXOIj3xdCYCZWFF9PmI0_SEnaOhixxnUAN6CCrjTiiVQ-oCr2EA-mMqEOUf534IswTOQ&usqp=CAU" group-title="MALAYSIA",Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
+#EXTINF:-1 tvg-id="615" tvg-name="Cartoon Network" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/13_144.png" group-title="KIDS",Cartoon Network
+http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
+
 #EXTINF:-1 tvg-id="616" tvg-name="Nickelodeon" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png" group-title="KIDS",Nickelodeon
 http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
 
@@ -149,12 +152,6 @@ http://185.180.221.194:8278/streams/d/Babytv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="619" tvg-name="Boomerang" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/430_144.png" group-title="KIDS",Boomerang
 http://185.180.221.194:8278/streams/d/Boomerang/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DisneyChannel.id" tvg-name="Disney Channel" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="KIDS",Disney Channel
-http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DisneyJunior.id" tvg-name="Disney Junior" tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="KIDS",Disney Junior
-http://51.79.82.231:8080/US_DISNEY_JR_EAST_USA/video.m3u8
 
 #EXTINF:-1 tvg-name="CBeebies" tvg-logo="https://static.filmon.com/assets/channels/3191/extra_big_logo.png" group-title="KIDS",CBeebies
 http://185.180.221.194:8278/streams/d/Cbeebies/playlist.m3u8
