@@ -27,6 +27,15 @@ http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 #EXTINF:-1 tvg-id="109" tvg-name="Naura HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png"  group-title="MALAYSIA",Naura
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 
+#EXTINF:-1 tvg-id="111" tvg-name="Go Shop 111" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/403_144.png" group-title="ASTRO",Go Shop (CH111)
+https://agsplayback01.astro.com.my/CH2/master_MYTVGOSHOP4_03.m3u8
+
+#EXTINF:-1 tvg-id="118" tvg-name="Go Shop 118" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/403_144.png" group-title="ASTRO",Go Shop (CH118)
+https://agsplayback01.astro.com.my/CH2/master_MYTVGOSHOP4_03.m3u8
+
+#EXTINF:-1 tvg-id="120" tvg-name="Go Shop GAAYA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/294_144.png" group-title="ASTRO",Go Shop GAAYA
+https://agsplayback01.astro.com.my/CH3/master_GOSHOP3_04.m3u8
+
 #EXTINF:-1 tvg-id="114" tvg-name="Al-Hijrah" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" group-title="MALAYSIA",TV AlHijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 
@@ -48,7 +57,7 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8
 #EXTINF:-1 tvg-id="149" tvg-name="TV9" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="MALAYSIA",TV9
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8|Referer=https://www.dailymotion.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JcTZMLX/image.png" group-title="MALAYSIA",Sukan RTM
+#EXTINF:-1 tvg-id="" tvg-name="RTM Sukan" tvg-logo="https://i.ibb.co/JcTZMLX/image.png" group-title="MALAYSIA",Sukan RTM
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Sukanrtm.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 tvg-id="RTMK06" tvg-name="TV6" tvg-logo="https://mediahomes.github.io/logos/tv6.png" group-title="MALAYSIA",TV6
@@ -61,10 +70,13 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/GShopMY.m3u8
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-id="392" tvg-name="KBS World" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png" group-title="KOREA",KBS World
-http://160.119.77.116:8081/iptv/hd-kbsworld.stream/playlist.m3u8
+https://live-vthcm.vieon.vn/htv_drm/live/kbs_world/TV_HD/kbs_world_1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="393" tvg-name="ONE HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png" group-title="KOREA",ONE HD
-http://210.210.155.35/session/a3ebedb4-512d-11e9-bf37-c81f66f89318/uq2663/h/h143/index.m3u8
+http://50.7.161.82:8277/streams/d/SetOne/playlist.m3u8
+
+#EXTINF:-1 tvg-id="394" tvg-name="Oh!K HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png" group-title="ENTERNATIONAL",Oh!K HD
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="395" tvg-name="tvN HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png" group-title="KOREA",tvN Asia
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
