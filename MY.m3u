@@ -93,20 +93,14 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
 #EXTINF:-1 tvg-id="412" tvg-name="CINEMAX" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="MOVIES",CINEMAX
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
-# #EXTINF:-1 tvg-id="414" tvg-name="FOX Family Movies HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/170_144.png" group-title="MOVIES",FOX Family
-# http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
-
-# #EXTINF:-1 tvg-id="415" tvg-name="FOX Action Movies HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/184_144.png" group-title="MOVIES",FOX Action Movies HD
-# http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png" group-title="MOVIES", HBO Family
+#EXTINF:-1 tvg-id="414" tvg-name="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png" group-title="MOVIES", HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-id="415" tvg-name="HBO Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MOVIES", HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature SD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="MOVIES",HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-
-#EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MOVIES", HBO Hits
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 
 #EXTINF:-1 tvg-id="501" tvg-name="Astro Awani HD" tvg-logo="https://de-digital-fortress-stg-assets.eco.astro.com.my/staging/2a4ea8d2d2e75e576b4a7de761113bc3.png" group-title="NEWS",ASTRO AWANI
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
@@ -188,3 +182,6 @@ https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 
 #EXTINF:-1 tvg-id="801" tvg-name="ASTRO ARENA" tvg-logo="https://pbs.twimg.com/media/EzAAynBVUAoRRV6.jpg" group-title="SPORT",ASTRO ARENA
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+
+#EXTINF:-1 tvg-id="802" tvg-name="Astro ARENA 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="SPORT",Astro ARENA 2
+http://95.216.221.22:5080/WebRTCApp/streams/arena2.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
